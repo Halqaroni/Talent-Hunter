@@ -11,6 +11,7 @@ This dataset contains the category of the resume and the resume as a string. I r
 The application was deployed using Streamlit and further deployed publically using herokuapp.
 
 https://halqaroni-talent-hunter-myapp-doiuq9.streamlitapp.com/
+
 https://talent-huntering.herokuapp.com/
 
 
