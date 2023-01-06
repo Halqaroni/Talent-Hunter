@@ -13,4 +13,5 @@ https://halqaroni-talent-hunter-myapp-doiuq9.streamlitapp.com/
 
 https://talent-huntering.herokuapp.com/
 
+Note: The links may no longer be active.
 
