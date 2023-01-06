@@ -1,7 +1,7 @@
 # Talent-Hunter
 
 #Part 1: Finding the right candidates for an interview
-Screening many resumes and only contacting those relevant to the position is the first step in eliminating candidates. The process is a challenge if companies are handling high volumes of applicants and choose to screen applicants manually. We will build a resume screener for companies to take advantage and contact the most relevant candidates for the position. We utilize sklearn's cosine similarity and TfidfVectorizer to process and nltk's to visualize and derive the best candidates from a pool of applicants.
+As a part of the hiring process, it is crucial to efficiently review a large number of resumes and identify the most qualified candidates for the position. However, this can be a challenging task, especially when there are high volumes of applicants and manual screening is required. That's why we developed a resume screener tool to help companies easily identify the most relevant candidates. Our screener uses sklearn's cosine similarity and TfidfVectorizer to process resumes and nltk to visualize and select the top candidates from the pool of applicants. By using our tool, companies can streamline their hiring process and efficiently find the best fit for their open positions.
 
 Dataset taken from: https://www.kaggle.com/datasets/wahib04/multilabel-resume-dataset
 
